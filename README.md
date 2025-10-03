@@ -8,7 +8,6 @@
 ![Performance](https://img.shields.io/badge/Performance-O(1)%20Average-brightgreen)
 ![Records](https://img.shields.io/badge/Records-25,376%20Places-success)
 ![States](https://img.shields.io/badge/States-57%20US%20States-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **High-performance C++ hash table implementation for efficient geographic place data storage and retrieval**
 
